@@ -1,0 +1,18 @@
+#IDE cashe
+**/.idea/
+**/.vscode/
+**/.vs/
+
+#dot env configuration file
+**/.env
+
+#cmake cashe direcories
+**/cmake-build-debug/
+CMakeLists.txt
+/build/
+
+# Added by Rust building system
+Cargo.lock
+
+
+/target
